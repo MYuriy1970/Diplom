@@ -1,0 +1,5 @@
+.catalog-page {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 3% auto auto 4%;
+}
